@@ -1,7 +1,5 @@
-# ===============================
 # Grafik Perbandingan Waktu Algoritma
 # Iteratif vs Rekursif (dalam mikrodetik)
-# ===============================
 
 # Load libraries
 library(ggplot2)
